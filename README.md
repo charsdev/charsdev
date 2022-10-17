@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Carlos Enrique Canavesio AKA Chars
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Unreal Engine 5 and Graphic API´S
+- 💞️ I’m looking to collaborate on game jams
